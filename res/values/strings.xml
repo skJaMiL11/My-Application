@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NDU</string>
+    <string name="login_text">Login</string>
+
+    <string-array name="kobis">
+        <item>Abrity</item>
+        <item>Nazrul</item>
+        <item>Rabindranath</item>
+
+    </string-array>
+</resources>
